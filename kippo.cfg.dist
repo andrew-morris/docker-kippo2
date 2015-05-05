@@ -239,7 +239,7 @@ interact_port = 5123
 
 # new default output module
 [output_jsonlog]
-logfile = log/kippo.json
+logfile = /logs/kippo.json
 
 #[database_hpfeeds]
 #server = hpfeeds.mysite.org
